@@ -1,6 +1,11 @@
 <div align=center><h1>JINHYEON KIM</h1></div>
 
+<!--<img src="https://github.com/tbutc/tbutc/blob/main/images/%E1%84%80%E1%85%B5%E1%86%B7%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%AB.jpg?raw=true" width="170" height="230">-->
+
 <div align=center><h1>📚 Education</h1></div>
+<div align=center><p>Hongik univ. Computer Engineering and Painting (2019.03 ~ 2024.02)</p> 
+<div align=center><p>LG Global Challenger (2019)</p>
+<div align=center><p>Undergraduate Student in AIS Lab (2022.12 ~ 2023.07)</p> 
 
 <div align=center><h1>🖥️ Stacks</h1></div>
 
